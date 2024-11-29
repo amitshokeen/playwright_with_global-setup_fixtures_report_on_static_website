@@ -1,33 +1,12 @@
 {
-  "cookies": [
-    {
-      "name": "fs_lua",
-      "value": "1.1732752924069",
-      "domain": ".pulsarinternal.com",
-      "path": "/",
-      "expires": 1732754724,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Strict"
-    },
-    {
-      "name": "fs_uid",
-      "value": "#o-1CYVX5-na1#dd06d137-6fd0-4732-bff7-1e5ea8d5a3e6:20444573-bebc-4ecb-84e7-dbb899b62602:1732752924069::1#/1764288925",
-      "domain": ".pulsarinternal.com",
-      "path": "/",
-      "expires": 1764288925,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Strict"
-    }
-  ],
+  "cookies": [],
   "origins": [
     {
       "origin": "https://narratives-fe.dev.ml-feapps.pulsarinternal.com",
       "localStorage": [
         {
           "name": "CognitoIdentityServiceProvider.7u8cjhn0men4pr45k162r7n9au.amit.accessToken",
-          "value": "eyJraWQiOiIwNFJZSHZ6WlpSVnlYNTU2WDVTTlAyY3pCYUFJM0g2NTZIemxJcUhUVnVJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwMTZhMjMzYi0xNmRkLTQ0YmItOTU3Yi02Y2Y1OTg0NzI3ZTgiLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cL2V1LXdlc3QtMV9Wc3FTZ0h0aXciLCJjbGllbnRfaWQiOiI3dThjamhuMG1lbjRwcjQ1azE2MnI3bjlhdSIsIm9yaWdpbl9qdGkiOiI2YzhjNzJiOC1hZTZiLTQxZjMtYTU5Ny0xNmRlODIzMzAzNDMiLCJldmVudF9pZCI6IjJjNGRkYTQ2LTY4YmQtNDFhYy04MzNmLTI3YTUyNWEyZDE1ZSIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiYXdzLmNvZ25pdG8uc2lnbmluLnVzZXIuYWRtaW4iLCJhdXRoX3RpbWUiOjE3MzI3NTI5MjYsImV4cCI6MTczMjgzOTMyNiwiaWF0IjoxNzMyNzUyOTI2LCJqdGkiOiI1ODI1OTRjMi1mMjY0LTQ3MGEtODRmMS1mYWJlM2YxNWUwY2MiLCJ1c2VybmFtZSI6ImFtaXQifQ.mwX3lTp633BB_YxQ9hSDhDpJ1Itkd-IVdte7B8qH2eExciNlZ3n-vSb1vQlgCbARPDoL_PP3e3yVluSxoldencndaYaLjv1Ecq2AjXfD7P8rRBslaZMswaYfVz0_yWd7PdsOX9ARrb5wfsw27G2gq2aOnBNcvPS0Hgy_1jsroloqJSpcaJeXl52CUya7EwTJKOjR-dnIG_TQQA4c8M0HOteTb4hEIKonGh5Cq8n4-Xp0l7OE0O79AF5LmpgRu6oZnRgkV9XgeX5-zMm--FN6rUi7xe_KCzeERawj0KIqKxDn9pQ_VX-F4zEYDjL3e9d-XywrssS3jMD77WulVM37AQ"
+          "value": "eyJraWQiOiIwNFJZSHZ6WlpSVnlYNTU2WDVTTlAyY3pCYUFJM0g2NTZIemxJcUhUVnVJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwMTZhMjMzYi0xNmRkLTQ0YmItOTU3Yi02Y2Y1OTg0NzI3ZTgiLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cL2V1LXdlc3QtMV9Wc3FTZ0h0aXciLCJjbGllbnRfaWQiOiI3dThjamhuMG1lbjRwcjQ1azE2MnI3bjlhdSIsIm9yaWdpbl9qdGkiOiJkZmNiYzFhOC00ZTkyLTQzY2MtODdiZi1kMDI1ZDMzMDVmZDEiLCJldmVudF9pZCI6IjVjNmEyY2UwLTg3YmEtNDlmMC1iNjA3LTY3NWZiMTY5YWNlMiIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiYXdzLmNvZ25pdG8uc2lnbmluLnVzZXIuYWRtaW4iLCJhdXRoX3RpbWUiOjE3MzI4NDc2MDEsImV4cCI6MTczMjkzNDAwMSwiaWF0IjoxNzMyODQ3NjAxLCJqdGkiOiIzOWI1OThhNy05OTkxLTRlZTUtOWEwNS04OGExY2Q5ZGQ4ZWEiLCJ1c2VybmFtZSI6ImFtaXQifQ.kmtBUfYfp45h4vhtZag0rmL44gCSzbv8drz71XNEUcRJSlr_h6WcQX8DZpRp78jmL52T37RLx8a6u_76MmCxyXK1oI240Ds0ChpJ9xo_Cm7ylaWuYjdT7J_AgzFTL_XAoNMBaBorKCNUA4XftB1riUIBOHHSpSk9jSfptTBfgDy4Dl6bkcZkQIvGPCx9NYZJ8PYBph_4ON7M0TYty7xsznL0zS2JfbkbTaFtpbma89rNm8cIf4FOYaU_aLN055rIkjf8JcHP976aENxakt7qAFimwx957jH2vmIwlEXTJFnOqnVPES4_pIVGwnzlIdb9mfTcACl3Vp5MmcSiQ1Q-Nw"
         },
         {
           "name": "CognitoIdentityServiceProvider.7u8cjhn0men4pr45k162r7n9au.LastAuthUser",
@@ -35,19 +14,15 @@
         },
         {
           "name": "CognitoIdentityServiceProvider.7u8cjhn0men4pr45k162r7n9au.amit.refreshToken",
-          "value": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.UMS7u8kmQXOL7qyR0u54eJ4u47AqtTDmD0Op5Ts0gmUuMaU0BbNLXD8Wf7hVX0Xj3id5Z--fsZvbaWB1oLQV-HtZS0h8aC8l8j5oRBibh0BAC5t1050ekjT3mpdQclbEsHaDbJHab_Y2IhGPsjYnDLwsvfzT7rLf0uh238pMzUkytpYSYGYQapvts-pDUX_658zJYkbCFojpwr6AlC7NfmWoewKcuYbkXzsKRNhbzMU1cFDs9e-ELUyCBCxC2Bo6R2tJKT0rDoqZpsKc4kSqmVCLIKAX-CL2aCQ3MfUY2jauIJUk8VNmCPe-4z6AQOM_20dZRTe4gEfGdEKZQ10y0A.vNEYUrCgROt-bUP4.VjyJOOXhRNsbFbBy4YmibAMnrOpXeq_udWoE9SYe7weY9mBYOGrCbZJyE2WeLnV1sEHVjOwtJJawkc020zI_sR6rlEsYbhYsQ-y8WP9zEU4JqlVdOBCZedxd74Pb3WBjxpL0gEKmc3yZdjKJGlunZDUHNHU4HQ-4lp9nup8_TD48yghlc3q5BtI_eyFMgm--LrDIzn5scNKNEDmGUhVzXCprxHaGXHJiHE7_qhX7nC7in_L2sEUtk5DG8UgfC5gCDBnvj6TqYSHAPQxTIPOoakk6B47vXyGvWk9_TafbnP_mQZvpa5C61D5XJcvmwi1NXmodE1CbqKpxryvcre_SbYwfiCwbxnVMIpku7FOYt0i3zOtKB766zSRFva5mJslZBCnYhI-PIK1Lz0vlCWISi4mnpa94FOr0ILIzfx2GAiSJIAhUuUGp0Mnky4QGAj50XdT5lB-AhU_4MFb3j1megx6NIe4Tp-4lACnsIgAP7BdRfI1npjExU67VJ2lzM0lBGhm1AKFyhWibSa2NgJlcbiCX_gbakU4TV3x9mCdsVcUUAaC2memsufjRA9jeen1gFIhSJwBdRN4ltA4kPkPr_9yHah7vOXIQD0qSiuXN5LEFfRimvCsa5Qz_3d1dFxXU4hAVkSIorUq2z8ADxjb5QcDIWXv9TUbSH2ULECHbvaz9D5VRTE8hTs6c_2vK65GnPyIarfLfu7f7g8nQY3VpOlRdvk9UkAhz6v3XmzxLdm17tHPGOb4pknhUdL2jqHyJY0tOgz56_-vWCSv62JiXQuAUGLZ5ZTlT69mnBKyO_JexcvnFlYQMj4d0cXPb1HmgqLHw6my_dwS0cVn_4qgv1tNzuasPKNvTAasI2FN9OG-PiLixlxkgfxEgaeH3S5J2YfxmTvJDc_4u7VxqqmFtuOKU8hOEAE3L3Aa8sL94-2UsililM2FHcrLjG8xqjXQLJIWu7pasX3Gm5XN4aAc5OxFw1DsQOiUo2kCe4Ykh7GUdegUaUczCi_zYvn4v4wQwyAPUD7soTG1be2g_HV_mR9Sx8seTm2VtBcvfV1eCgrutUTa58J8prX1JaBPxtbI5lwBOLNNUHz4Uuf7aD-fzC7Ot_U4w1wJ7MksPDFKLaJtvWpIswYsxbM3GJahewDqsFmTaM50_i2H8-LDT8fnu3zO1MnNJQFiVKMHqX9sMqtKclSFdzSv-X0DyS9Xk1vaG1utR7-O0CFBw_Wgmd-DJ6UngOD032zqGYCUGw0DVwLv-NBsK5FKZY8EHLGvMhDXVXbc.83YB08gdHB-KHhj1iBTSKA"
+          "value": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.kv75pqBosOMOg-4Rbm0Ce4MSdGm0VwnmiYc9WRYdnvPULivq5cf12RQdJdyH-MINsW3DEdKuUKKsLGzu7nKpRGjkSRlox0QKjOBLkC7v12aGP2MoBzqYVzE4R78fJQj3-0CGUZRiNPyGDYBeU1iAYtfMQjptCKYz6V3ULg6YFHd79irZc6Rm2jRyG-m9QuqHxiqci4u8jITwGHBxpXJYfRJhI9shqbv3gMMedkiO_7hVJ7rKoeTrRYt6Lao9Uxwu2R8M3sSBzxtn8LrOD6yNxUUCiQJW61Pl4wv5COoUoToZ1ixLf2xJVEVXyeY__rLrEGpq2C6OkDw-VWuro0QZyQ.nCBQGMBXCSX8LTLw.ajEnlZR1C_7Rk1OtHVXXjOmF2xfw5Gt361XslRePgTgen7UhoGiQkeHo7GWtsKfZoJGapFSovkA9_aN0UdVelj9uDyL6O6lS3fFxyY5FJPjDjMnkKIxk1VqmVHzlff3-o7zQZSSKzxM6iui5m9ss1RGpYA66r0Ji-KW0wy43ba26Ju2gqez-ZD3Eoh27Kh_CwtXV_ODyY8TrkKMryd0_QeTbwbgFXx4Z6AO3JGPEZSni4xO3pPAlGnjSr64SNhFcfQAf_UTsX6a3u8NH_dtg2WEPsIrCG0scdUE7HE4ZF-Xrtcxyf1oT4y8AopWW68rDig_UqYoA31C_y_I2e3xLl5Op-PK1BCh4yqmaN-ZZGJoSBG5Zz6-z80gaAScz7xIjPi3KM3I2jPq5laxaadwSIqhYTB_5XOiACEuPMpeofFu8d6ocF3287VoUY4WE4l7mqLdC6CBAeE31oL3q0Ytuy4tEzYfcQc-R6CdM6gV2xEkVQz9lNGNIkxTCgj_ol_HMHmt2PXyGHM4MVfzUjuOHuhj4OmuqgZgEEIUuCw9y9JdsVXDESQn7t6d5ozJDvQm-Drq28sCLND9ah23yh5YRRtFLij1OO0yzT_SRXnGKbWmZh9hvrnE6uhjYc-ow_qFOVurm1Xm-BBC8ii8xCsRuEb_rFV_ERFvgmYf8lnxaaAXT3qpk667bs8zegnTUh4pEoG8waeAoCBKqU01WgI10g01oOmnJQl1t_nRgmFlr9PXcNyl-1fzrPPmfAiXjcVra7LTJ9ynyzvY-sk9mtdvRCUoX0_W5y-jSL_d3rw_uo-V8uLcNDBKP7BSqnbk4SXbC3Op28pHkBxUh00NtjWWXpAHcb5OcRlBGBeorjXLSfQ-Kynlm8VZVQxF2XxC-hQpYAOuDpVFPF6zN7GbJS-Ev4wAeJch_XIqw8kVnqLz2hwC23yOOM_q7Hu8bMW6Km4f_OYXc51T4gDFQQVQR0yTEYNsDvv10RwyAK8-gQdomVFvtjky1-zCfW2QhsGq6KZtxp3HzT0NNasBIRErg26dAcNF-gKQi2FkcX7VU0yMEA20hX-kXZ8VSR-Dk7TfRITpvOK0uQfgrp1fhUlVLcTlDxznFezgOtE_wOlVJjIx2nEAMrGPEewt6INcJ6rsVF7jo-bN2WqIQSRf67AdP9HZBS1DuDSJ1j7u8LBXwltrsRC8n0wB6It2X49BzX1OAwPZ88XfaJa-pz4BW6mTx-ybJ4IV3ci_S_6ZrbNQutSPDTRIQFVP-Sy4AcgFs1_aIIQfJKHY.BM_kf1K15r_oyUlmHJ8ekg"
         },
         {
           "name": "CognitoIdentityServiceProvider.7u8cjhn0men4pr45k162r7n9au.amit.idToken",
-          "value": "eyJraWQiOiJEbW1lQThlTzJZVnBpaW1tRnlnQTl2WlJHNUVYVlpkazBTZ0VGd2duQ2xZPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwMTZhMjMzYi0xNmRkLTQ0YmItOTU3Yi02Y2Y1OTg0NzI3ZTgiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tXC9ldS13ZXN0LTFfVnNxU2dIdGl3IiwiY29nbml0bzp1c2VybmFtZSI6ImFtaXQiLCJvcmlnaW5fanRpIjoiNmM4YzcyYjgtYWU2Yi00MWYzLWE1OTctMTZkZTgyMzMwMzQzIiwiYXVkIjoiN3U4Y2pobjBtZW40cHI0NWsxNjJyN245YXUiLCJldmVudF9pZCI6IjJjNGRkYTQ2LTY4YmQtNDFhYy04MzNmLTI3YTUyNWEyZDE1ZSIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzMyNzUyOTI2LCJleHAiOjE3MzI4MzkzMjYsImlhdCI6MTczMjc1MjkyNiwianRpIjoiYzFhOGQ1OTItYTZkNy00MzQzLTk0ZmEtZDk2Mjk4MzBiZjg1IiwiZW1haWwiOiJhbWl0LnNob2tlZW5AaXNlbnRpYS5jb20ifQ.lYIoZPc8pFsEXtebmRYHte-0voec5zoySjHChvGb3ZKATBwwUucHCxkv2RFsaOlXUNuWrcf3_Nlu2iudHgIxw3U8IDEjxGJWx20D59BjvZZqoYShLshKvAFt8jL5Iii7kccQyTrdMx4wb9j_79ncgbNsciM1qsReFWqfAFVXb3I0_mbCYr5iHf6WZCfxl-kzcsjOJK60q9Tm5jHnopcgyv0aEkO-ClLURwAQrLlL7Zw41sxNw-C5RiBlSFs1x9XyvspJISrzWpNB26o8uzkLGs7YiZvm1JxTXG8nKKcgefBpsFgWgrOzgSJyaXPpVKylZq1ik_5Qxvk_M6HOjh6RCQ"
+          "value": "eyJraWQiOiJEbW1lQThlTzJZVnBpaW1tRnlnQTl2WlJHNUVYVlpkazBTZ0VGd2duQ2xZPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwMTZhMjMzYi0xNmRkLTQ0YmItOTU3Yi02Y2Y1OTg0NzI3ZTgiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tXC9ldS13ZXN0LTFfVnNxU2dIdGl3IiwiY29nbml0bzp1c2VybmFtZSI6ImFtaXQiLCJvcmlnaW5fanRpIjoiZGZjYmMxYTgtNGU5Mi00M2NjLTg3YmYtZDAyNWQzMzA1ZmQxIiwiYXVkIjoiN3U4Y2pobjBtZW40cHI0NWsxNjJyN245YXUiLCJldmVudF9pZCI6IjVjNmEyY2UwLTg3YmEtNDlmMC1iNjA3LTY3NWZiMTY5YWNlMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzMyODQ3NjAxLCJleHAiOjE3MzI5MzQwMDEsImlhdCI6MTczMjg0NzYwMSwianRpIjoiMGQ4ZGM3N2QtOWQwOS00ZTFhLTg3M2ItOTFjMWRjOWYwYTU2IiwiZW1haWwiOiJhbWl0LnNob2tlZW5AaXNlbnRpYS5jb20ifQ.iiTG6pIZt-IvmkrdA_JQALePWuuCdQkdZLFuUu4ukSFSymyLXB0JVQUxzWFfWE0h55zJsrVyDvLv86wWblEpeEWh3DbfP5zA2CCjgPFyvvNfOFy2DrLx1nLVHTC6ilazZXsYF3fKhMw0o_6csc47kAfeJ7z42-b0xVTinSIuAIQZ_KV5CS7nV9jlXvAwK482g16ojveYt2KfzTOOHCYgI9JZYwfNluDEYFA1P2c3a9wEamnb06rPUuxxy3ArgUo_ybxBIYNahRJJEbbyRdC_h2we7jiWlIjhf5JfUSD4ranWsdbf2H1CcJ0-D5Z3UVtQwQyRQwWyw9SVKSEg-t-3mA"
         },
         {
           "name": "CognitoIdentityServiceProvider.7u8cjhn0men4pr45k162r7n9au.amit.userData",
           "value": "{\"UserAttributes\":[{\"Name\":\"sub\",\"Value\":\"016a233b-16dd-44bb-957b-6cf5984727e8\"},{\"Name\":\"email_verified\",\"Value\":\"true\"},{\"Name\":\"email\",\"Value\":\"amit.shokeen@isentia.com\"}],\"Username\":\"amit\"}"
-        },
-        {
-          "name": "_fs_lua",
-          "value": "1.1732752924069"
         },
         {
           "name": "amplify-signin-with-hostedUI",
@@ -59,11 +34,7 @@
         },
         {
           "name": "CognitoIdentityServiceProvider.7u8cjhn0men4pr45k162r7n9au.amit.clockDrift",
-          "value": "1"
-        },
-        {
-          "name": "_fs_uid",
-          "value": "#o-1CYVX5-na1#dd06d137-6fd0-4732-bff7-1e5ea8d5a3e6:20444573-bebc-4ecb-84e7-dbb899b62602:1732752924069::1#/1764288925"
+          "value": "0"
         }
       ]
     }
