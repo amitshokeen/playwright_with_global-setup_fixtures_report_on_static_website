@@ -5,7 +5,7 @@ export default class LoginPage {
 
     async login() {
         await this.page.goto('https://narratives-fe.dev.ml-feapps.pulsarinternal.com/');
-        await expect(this.page).toHaveTitle('Narratives AI - Pulsar111', { timeout: 5000 });
+        await expect(this.page).toHaveTitle('Narratives AI - Pulsar', { timeout: 5000 });
     }
 
     async logout() {
