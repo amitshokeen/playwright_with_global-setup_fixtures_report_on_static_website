@@ -7,10 +7,6 @@ export const test = base.extend<{
     searchPage: SearchPage;
 }>({
     //define the fixtures
-    loginPage: async({ page }, use) => {
-        await use(new LoginPage(page));
-    },
-    searchPage: async({ page }, use) => {
-        await use(new SearchPage(page));
-    },
+    loginPage: async({ page }, use) => {await use(new LoginPage(page));},
+    searchPage: async({ page }, use) => {await use(new SearchPage(page));},
 })

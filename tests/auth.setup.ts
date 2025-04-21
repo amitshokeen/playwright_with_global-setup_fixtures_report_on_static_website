@@ -4,7 +4,7 @@ import path from 'path';
 const authFile = path.join(__dirname, '../testProject.outputDir/user_login.json');
 
 setup('authenticate', async ({ page }) => {
-  // Perform authentication steps. Replace these actions with your own.
+  // Perform authentication steps.
   await page.goto('https://narratives-fe.dev.ml-feapps.pulsarinternal.com/');
   await page.getByPlaceholder('Enter your Username').fill('amit');
   await page.getByPlaceholder('Enter your Password').fill('anoPwd@79999');
